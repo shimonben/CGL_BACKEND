@@ -1,4 +1,6 @@
-package GeneticAlgorithm;
+package CGL;
+
+import GeneticAlgorithm.GAMain.Chromosome;
 
 import java.util.ArrayList;
 
@@ -7,7 +9,7 @@ import java.util.ArrayList;
  * store a list of the coils id.
  * @author Shimon
  */
-public class CoilsSequence extends Chromosome{
+public class CoilsSequence extends Chromosome {
 	public static int MAX_SEQUENCE_SIZE = 1000;
 	ArrayList<Integer> coils_list = new ArrayList<Integer>();
 }

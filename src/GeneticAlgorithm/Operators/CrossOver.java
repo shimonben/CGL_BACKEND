@@ -1,4 +1,4 @@
-package Operators;
+package GeneticAlgorithm.Operators;
 
 
 public class CrossOver {

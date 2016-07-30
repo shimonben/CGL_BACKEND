@@ -1,8 +1,10 @@
-package GeneticAlgorithm;
+package CGL;
+
+import GeneticAlgorithm.GAMain.DNA;
 
 import java.util.HashMap;
 
-public class Coil extends DNA{
+public class Coil extends DNA {
 	public static String STEEL_THICKNESS = "Steel Thickness";
 	public static String STEEL_WIDTH = "Steel Width";
 	public static String STEEL_GRADE = "Steel Grde";

@@ -4,7 +4,7 @@ package UnitTests;
 import org.junit.*;
 
 
-import Operators.CrossOver;
+import GeneticAlgorithm.Operators.CrossOver;
 import junit.framework.Assert;
 
 public class CrossOverJUnit {
