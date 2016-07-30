@@ -1,10 +1,17 @@
 package Operators;
 
-/**
- * 
- * @author Shimon
- *
- */
-public class CrossOver {
 
+public class CrossOver {
+	
+	public boolean crossOver()
+	{
+		return true;
+	}
+	
+	public boolean check_duplications()
+	{
+		
+		return true;
+	}
+	
 }
